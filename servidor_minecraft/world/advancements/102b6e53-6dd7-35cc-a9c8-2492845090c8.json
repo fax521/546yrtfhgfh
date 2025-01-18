@@ -4030,27 +4030,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-01-18 20:08:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-01-18 20:00:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-01-18 20:35:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-18 20:06:00 +0000"
     },
     "done": true
   },
@@ -4060,9 +4042,27 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "beacon": "2025-01-18 20:35:55 +0000"
+      "has_basalt": "2025-01-18 20:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-18 20:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-18 20:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-18 20:08:30 +0000"
     },
     "done": true
   },
@@ -4078,15 +4078,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-01-18 20:06:00 +0000"
+      "beacon": "2025-01-18 20:35:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "has_basalt": "2025-01-18 20:00:50 +0000"
+      "beacon": "2025-01-18 20:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-18 23:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-18 23:40:03 +0000"
     },
     "done": true
   },
