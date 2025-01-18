@@ -4042,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-18 20:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-18 20:06:00 +0000"
@@ -4051,6 +4057,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-18 20:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-01-18 20:35:55 +0000"
     },
     "done": true
   },
