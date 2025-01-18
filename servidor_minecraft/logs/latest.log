@@ -45,3 +45,8 @@
 [19:34:54] [Server thread/INFO]: troll_face300 joined the game
 [19:37:53] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51935] logged in with entity id 1269 at (-84.45039733634712, 129.25220334025371, -115.77111927114545)
 [19:37:53] [Server thread/INFO]: DaVIcHoz21 joined the game
+[19:49:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-539, y=64, z=-539} class_2338{x=-540, y=63, z=-539}
+[19:49:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-539, y=64, z=-539} class_2338{x=-540, y=63, z=-539}
+[19:49:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=64, z=-539} class_2338{x=-540, y=63, z=-539}
+[19:49:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-538, y=64, z=-539} class_2338{x=-540, y=63, z=-539}
+[19:53:56] [Server thread/INFO]: DaVIcHoz21 has made the advancement [The Parrots and the Bats]

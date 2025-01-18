@@ -4596,13 +4596,26 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:white": "2025-01-16 19:07:06 +0000"
+      "minecraft:white": "2025-01-16 19:07:06 +0000",
+      "minecraft:siamese": "2025-01-18 19:50:17 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
       "make_a_sign_glow": "2025-01-16 19:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-01-18 19:53:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-18 19:53:56 +0000"
     },
     "done": true
   },
