@@ -209,3 +209,30 @@
 [03:19:43] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -16.95766685962286,-2.336150198216046,5.119442956815192
 [03:20:17] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 5.358902635327809,8.080272863072949,14.819839030584546
 [03:20:31] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -7.7668083057805575,7.235418354140492,-0.0566022079555637
+[03:21:42] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 3.46817432640853,-2.4373764262364404,-9.66338484121377
+[03:22:41] [Server thread/INFO]: [Not Secure] <troll_face300> a
+[03:22:47] [Server thread/INFO]: [Not Secure] <troll_face300> voy a seguir viendo videos
+[03:22:48] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[03:22:48] [Server thread/INFO]: troll_face300 left the game
+[03:22:48] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[03:24:03] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 7.25724809248095,10.95187520860523,0.4182066303467309
+[03:24:12] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 17.80272735236838,-3.1775833083213456,-2.3371726625732663
+[03:25:40] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
+[03:25:40] [Server thread/INFO]: DaVIcHoz21 left the game
+[03:25:40] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
+[03:25:57] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51154] logged in with entity id 64947 at (-597.9876718322595, 67.12343214524428, -352.45003814258405)
+[03:25:57] [Server thread/INFO]: DaVIcHoz21 joined the game
+[03:26:28] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
+[03:26:28] [Server thread/INFO]: DaVIcHoz21 left the game
+[03:26:28] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
+[03:26:57] [Server thread/INFO]: Stopping the server
+[03:26:57] [Server thread/INFO]: Stopping server
+[03:26:57] [Server thread/INFO]: Saving players
+[03:26:57] [Server thread/INFO]: Saving worlds
+[03:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
