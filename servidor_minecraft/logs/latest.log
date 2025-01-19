@@ -146,3 +146,10 @@
 [02:19:27] [Server thread/INFO]: DaVIcHoz21 left the game
 [02:19:27] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
 [02:19:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e9a114b[id=2e8b2933-5670-3eb9-8ae2-bed0578c72e1,name=DaVIcHoz21,properties={}] lost connection: Disconnected
+[02:24:38] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50505] logged in with entity id 38822 at (-498.75491085977495, 62.09206866592691, -499.63190405581855)
+[02:24:38] [Server thread/INFO]: DaVIcHoz21 joined the game
+[02:49:21] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[02:49:21] [Server thread/INFO]: troll_face300 left the game
+[02:49:21] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[02:50:29] [Server thread/WARN]: DaVIcHoz21 moved wrongly!
+[03:08:28] [Server thread/INFO]: Villager class_1646['Farmer'/40939, l='ServerLevel[world]', x=-992.43, y=50.00, z=-939.87] died, message: 'Farmer hit the ground too hard'
