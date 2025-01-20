@@ -2364,6 +2364,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2025-01-20 16:33:32 +0000",
       "minecraft:cow": "2025-01-08 22:28:41 +0000"
     },
     "done": false
@@ -4125,6 +4126,19 @@
       "has_stripped_logs": "2025-01-20 03:05:49 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-20 16:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2025-01-20 16:31:42 +0000",
+      "minecraft:red": "2025-01-20 16:33:02 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }

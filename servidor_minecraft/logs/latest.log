@@ -101,3 +101,7 @@
 [16:22:15] [Server thread/INFO]: troll_face300 lost connection: Disconnected
 [16:22:15] [Server thread/INFO]: troll_face300 left the game
 [16:22:15] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[16:26:07] [Server thread/INFO]: troll_face300[/172.30.212.217:56397] logged in with entity id 19004 at (-468.648343648924, 63.0, -535.6100522638193)
+[16:26:07] [Server thread/INFO]: troll_face300 joined the game
+[16:31:31] [Server thread/WARN]: troll_face300 moved wrongly!
+[16:31:42] [Server thread/INFO]: troll_face300 has made the advancement [Best Friends Forever]
