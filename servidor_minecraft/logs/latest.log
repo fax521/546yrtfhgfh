@@ -46,3 +46,6 @@
 [02:05:21] [Server thread/INFO]: troll_face300[/172.30.212.217:55112] logged in with entity id 9 at (-466.1188351376962, 67.0, -534.9903069428161)
 [02:05:21] [Server thread/INFO]: troll_face300 joined the game
 [02:28:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-167, y=12, z=-100} class_2338{x=-167, y=11, z=-101}
+[02:34:37] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[02:34:37] [Server thread/INFO]: troll_face300 left the game
+[02:34:37] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
