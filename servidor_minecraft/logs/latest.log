@@ -1,5 +1,5 @@
-[01:09:12] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[01:09:12] [main/INFO]: Loading 10 mods:
+[02:03:42] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[02:03:43] [main/INFO]: Loading 10 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
@@ -11,228 +11,37 @@
 	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df3606a
 	   |-- fabric-networking-api-v1 4.2.2+60c3209b6a
 	   \-- fabric-resource-loader-v0 1.3.0+565991296a
-[01:09:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/546yrtfhgfh/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:09:13] [main/INFO]: Compatibility level set to JAVA_17
-[01:09:15] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:09:30] [main/INFO]: [voicechat] Compatibility version 18
-[01:09:30] [main/INFO]: [voicechat] Loading plugins
-[01:09:30] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:09:30] [main/INFO]: [voicechat] Initializing plugins
-[01:09:30] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:09:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:09:36] [main/INFO]: Loaded 1290 recipes
-[01:09:37] [main/INFO]: Loaded 1399 advancements
-[01:09:38] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:09:38] [Server thread/INFO]: Loading properties
-[01:09:38] [Server thread/INFO]: Default game type: SURVIVAL
-[01:09:38] [Server thread/INFO]: Generating keypair
-[01:09:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:09:39] [Server thread/INFO]: Using epoll channel type
-[01:09:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:09:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:09:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:09:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:09:39] [Server thread/INFO]: Preparing level "world"
-[01:09:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[01:09:50] [Server thread/INFO]: Time elapsed: 1478 ms
-[01:09:50] [Server thread/INFO]: Done (11.537s)! For help, type "help"
-[01:09:50] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:09:50] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.30.124.31', binding to wildcard IP instead
-[01:09:50] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
-[01:10:12] [Server thread/INFO]: troll_face300[/172.30.212.217:54955] logged in with entity id 9 at (-469.92727687156423, 63.0, -536.4684736299694)
-[01:10:12] [Server thread/INFO]: troll_face300 joined the game
-[01:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[01:59:29] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50078] logged in with entity id 17877 at (-93.39431435076213, 242.00133597911216, -422.5870380191173)
-[01:59:29] [Server thread/INFO]: DaVIcHoz21 joined the game
-[01:59:46] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ola
-[01:59:49] [Server thread/INFO]: [Not Secure] <troll_face300> holsa
-[01:59:50] [Server thread/INFO]: [Not Secure] <troll_face300> hola
-[01:59:54] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[02:00:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> bro
-[02:00:30] [Server thread/INFO]: [Not Secure] <troll_face300> estoy buscando netherite
-[02:00:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ok
-[02:01:07] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[02:01:07] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:01:07] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[02:01:19] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50085] logged in with entity id 19470 at (-92.46974783526187, 249.0, -422.6160951925215)
-[02:01:19] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:01:44] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> voy un poco lag
-[02:01:50] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[02:01:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> bro
-[02:01:59] [Server thread/INFO]: [Not Secure] <troll_face300> dime
-[02:02:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> sobre los mods
-[02:02:20] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ponle los mismos mods q dijiste
-[02:02:23] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> para el server
-[02:02:23] [Server thread/INFO]: [Not Secure] <troll_face300> te dije que me pases un video eligiendo
-[02:04:07] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ostia
-[02:04:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> el lag
-[02:04:10] [Server thread/INFO]: [Not Secure] <troll_face300> que
-[02:04:11] [Server thread/INFO]: [Not Secure] <troll_face300> aç
-[02:04:15] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> mira la barra
-[02:04:37] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[02:04:37] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:04:37] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[02:04:47] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50122] logged in with entity id 23083 at (-92.22360075802665, 241.0, -422.63017447890496)
-[02:04:47] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:04:58] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
-[02:05:03] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[02:05:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ptm
-[02:05:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-119, y=20, z=-61} class_2338{x=-122, y=18, z=-61}
-[02:05:55] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -2.099156399487228,-3.154509337126285,18.079505332166264
-[02:06:10] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 15.93261808925206,-7.871323714788787,-4.119226145955025
-[02:06:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:00] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:00] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
-[02:07:05] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:06] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:09] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:11] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:13] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:14] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[02:07:16] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> lag
-[02:07:26] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> solo lo escribi 1 vez
-[02:09:22] [Server thread/INFO]: [Not Secure] <troll_face300> titan
-[02:09:26] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[02:09:28] [Server thread/INFO]: [Not Secure] <troll_face300> desert?
-[02:09:31] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> q
-[02:09:35] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 7.645341252975982,-0.16779664663324922,6.6191515201485345
-[02:09:57] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -6.871154877737808,-9.940121602596946,13.117308741591046
-[02:10:20] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> toy volando
-[02:10:24] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> en el aire
-[02:10:24] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[02:10:26] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> sin elitros
-[02:10:43] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ay cabron
-[02:10:45] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ya cai
-[02:12:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-317, y=9, z=-249} class_2338{x=-317, y=5, z=-251}
-[02:13:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-317, y=6, z=-263} class_2338{x=-317, y=4, z=-265}
-[02:13:18] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
-[02:13:18] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:13:18] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[02:13:32] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50163] logged in with entity id 29599 at (-662.3000000119209, 70.0, -512.4358665077127)
-[02:13:32] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:13:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-317, y=5, z=-306} class_2338{x=-317, y=4, z=-305}
-[02:13:44] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> a
-[02:13:54] [Server thread/WARN]: DaVIcHoz21 moved wrongly!
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=5, z=-308} class_2338{x=-316, y=5, z=-308}
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=5, z=-308} class_2338{x=-316, y=5, z=-308}
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=5, z=-308} class_2338{x=-316, y=5, z=-308}
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=5, z=-308} class_2338{x=-316, y=5, z=-308}
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=5, z=-308} class_2338{x=-316, y=5, z=-308}
-[02:15:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-314, y=5, z=-308} class_2338{x=-316, y=5, z=-308}
-[02:15:23] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> alvw
-[02:15:25] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> alv
-[02:15:26] [Server thread/INFO]: [Not Secure] <troll_face300> que
-[02:15:28] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> alv
-[02:15:30] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> alv
-[02:15:31] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> alv
-[02:15:33] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> alv
-[02:15:33] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[02:15:33] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:15:33] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[02:15:43] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50169] logged in with entity id 32717 at (-473.23750001192093, 63.0, -537.572811721146)
-[02:15:43] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:17:47] [Server thread/INFO]: [Not Secure] <troll_face300> no encontre nada .-.
-[02:17:51] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> JAJAJA
-[02:18:35] [Server thread/INFO]: [Not Secure] <troll_face300> pipipi
-[02:18:37] [Server thread/INFO]: [Not Secure] <troll_face300> llamada
-[02:18:58] [Server thread/INFO]: [Not Secure] <troll_face300> voy a arreglar mi pico
-[02:19:27] [Server thread/INFO]: DaVIcHoz21 lost connection: Disconnected
-[02:19:27] [Server thread/INFO]: DaVIcHoz21 left the game
-[02:19:27] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[02:19:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e9a114b[id=2e8b2933-5670-3eb9-8ae2-bed0578c72e1,name=DaVIcHoz21,properties={}] lost connection: Disconnected
-[02:24:38] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:50505] logged in with entity id 38822 at (-498.75491085977495, 62.09206866592691, -499.63190405581855)
-[02:24:38] [Server thread/INFO]: DaVIcHoz21 joined the game
-[02:49:21] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[02:49:21] [Server thread/INFO]: troll_face300 left the game
-[02:49:21] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
-[02:50:29] [Server thread/WARN]: DaVIcHoz21 moved wrongly!
-[03:08:28] [Server thread/INFO]: Villager class_1646['Farmer'/40939, l='ServerLevel[world]', x=-992.43, y=50.00, z=-939.87] died, message: 'Farmer hit the ground too hard'
-[03:11:51] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -17.237920947633143,9.027020614477792,20.385147827054425
-[03:12:27] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -0.15536892140340797,11.858813392922329,2.3504386620701894
-[03:12:28] [Server thread/INFO]: troll_face300[/172.30.212.217:62825] logged in with entity id 59319 at (-469.9539290615407, 63.0, -535.7500980516978)
-[03:12:28] [Server thread/INFO]: troll_face300 joined the game
-[03:12:34] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AAAAAAAAAAAAAA
-[03:12:40] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> ptm me mueroo
-[03:12:43] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -10.822587900768042,2.8521497149844492,4.969040472969084
-[03:12:49] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -8.397462892540943,1.2712241076924897,5.681912965475533
-[03:12:59] [Server thread/INFO]: troll_face300 was slain by Zombie
-[03:13:02] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> JAJAJAJA
-[03:13:06] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 7.144863280912432,12.060307343024704,-11.248171588568425
-[03:13:12] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 17.284948398403458,-2.4754340822096452,2.320007181956953
-[03:13:32] [Server thread/INFO]: [Not Secure] <troll_face300> que fuem nao
-[03:13:37] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> MEDIO CORA
-[03:13:46] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> LITO
-[03:14:16] [Server thread/INFO]: [Not Secure] <troll_face300> oye
-[03:14:16] [Server thread/INFO]: [Not Secure] <troll_face300> no
-[03:14:43] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[03:14:50] [Server thread/INFO]: [Not Secure] <troll_face300> parece como si todo lo tubieran planeado
-[03:15:00] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> si ps
-[03:15:27] [Server thread/INFO]: [Not Secure] <troll_face300> primero los dos sombies para distraer
-[03:15:32] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[03:15:35] [Server thread/INFO]: [Not Secure] <troll_face300> luego el creeper
-[03:15:38] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[03:15:42] [Server thread/INFO]: [Not Secure] <troll_face300> con el sombie atras para agarrar la espada
-[03:15:47] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> AJAJAJAJ
-[03:15:57] [Server thread/INFO]: [Not Secure] <troll_face300> y el otro con armadura
-[03:16:01] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XDDDDDDDDDDDDD
-[03:16:02] [Server thread/INFO]: [Not Secure] <troll_face300> ._.
-[03:16:04] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 2.469902068757051,8.021013276251708,-8.051023617704914
-[03:16:17] [Server thread/INFO]: [Not Secure] <troll_face300> devuelveme mi pico
-[03:16:21] [Server thread/INFO]: [Not Secure] <troll_face300> de diamante
-[03:16:24] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> no lo tengo
-[03:16:27] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> a
-[03:16:31] [Server thread/INFO]: [Not Secure] <troll_face300> devuelve
-[03:16:49] [Server thread/INFO]: [Not Secure] <troll_face300> XD
-[03:16:56] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> XD
-[03:17:05] [Server thread/INFO]: [Not Secure] <troll_face300> lo planearon bien xd
-[03:17:19] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> todo taba friamente calculado
-[03:17:27] [Server thread/INFO]: [Not Secure] <troll_face300> lo peor es que si
-[03:17:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-472, y=64, z=-539}
-[03:18:00] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> q
-[03:18:43] [Server thread/INFO]: [Not Secure] <DaVIcHoz21> te regalo
-[03:18:46] [Server thread/INFO]: [Not Secure] <troll_face300> ok
-[03:18:49] [Server thread/WARN]: DaVIcHoz21 was kicked for floating too long!
-[03:18:49] [Server thread/INFO]: DaVIcHoz21 lost connection: Flying is not enabled on this server
-[03:18:49] [Server thread/INFO]: DaVIcHoz21 left the game
-[03:18:49] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[03:19:09] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51046] logged in with entity id 61128 at (-469.26139957025777, 66.12418707874468, -521.9493962595884)
-[03:19:09] [Server thread/INFO]: DaVIcHoz21 joined the game
-[03:19:12] [Server thread/INFO]: [Not Secure] <troll_face300> que
-[03:19:21] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[03:19:22] [Server thread/INFO]: [Not Secure] <troll_face300> XD
-[03:19:43] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -16.95766685962286,-2.336150198216046,5.119442956815192
-[03:20:17] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 5.358902635327809,8.080272863072949,14.819839030584546
-[03:20:31] [Server thread/WARN]: DaVIcHoz21 moved too quickly! -7.7668083057805575,7.235418354140492,-0.0566022079555637
-[03:21:42] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 3.46817432640853,-2.4373764262364404,-9.66338484121377
-[03:22:41] [Server thread/INFO]: [Not Secure] <troll_face300> a
-[03:22:47] [Server thread/INFO]: [Not Secure] <troll_face300> voy a seguir viendo videos
-[03:22:48] [Server thread/INFO]: troll_face300 lost connection: Disconnected
-[03:22:48] [Server thread/INFO]: troll_face300 left the game
-[03:22:48] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
-[03:24:03] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 7.25724809248095,10.95187520860523,0.4182066303467309
-[03:24:12] [Server thread/WARN]: DaVIcHoz21 moved too quickly! 17.80272735236838,-3.1775833083213456,-2.3371726625732663
-[03:25:40] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
-[03:25:40] [Server thread/INFO]: DaVIcHoz21 left the game
-[03:25:40] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[03:25:57] [Server thread/INFO]: DaVIcHoz21[/172.30.41.140:51154] logged in with entity id 64947 at (-597.9876718322595, 67.12343214524428, -352.45003814258405)
-[03:25:57] [Server thread/INFO]: DaVIcHoz21 joined the game
-[03:26:28] [Server thread/INFO]: DaVIcHoz21 lost connection: Timed out
-[03:26:28] [Server thread/INFO]: DaVIcHoz21 left the game
-[03:26:28] [Server thread/INFO]: [voicechat] Disconnecting client DaVIcHoz21
-[03:26:57] [Server thread/INFO]: Stopping the server
-[03:26:57] [Server thread/INFO]: Stopping server
-[03:26:57] [Server thread/INFO]: Saving players
-[03:26:57] [Server thread/INFO]: Saving worlds
-[03:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:26:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:26:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:03:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/546yrtfhgfh/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:03:43] [main/INFO]: Compatibility level set to JAVA_17
+[02:03:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:04:01] [main/INFO]: [voicechat] Compatibility version 18
+[02:04:01] [main/INFO]: [voicechat] Loading plugins
+[02:04:01] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:04:01] [main/INFO]: [voicechat] Initializing plugins
+[02:04:01] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:04:01] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:04:06] [main/INFO]: Loaded 1290 recipes
+[02:04:07] [main/INFO]: Loaded 1399 advancements
+[02:04:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:04:08] [Server thread/INFO]: Loading properties
+[02:04:08] [Server thread/INFO]: Default game type: SURVIVAL
+[02:04:08] [Server thread/INFO]: Generating keypair
+[02:04:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:04:08] [Server thread/INFO]: Using epoll channel type
+[02:04:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:04:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:04:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:04:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:04:08] [Server thread/INFO]: Preparing level "world"
+[02:04:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:04:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:04:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:04:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:04:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:04:22] [Server thread/INFO]: Time elapsed: 1869 ms
+[02:04:22] [Server thread/INFO]: Done (13.975s)! For help, type "help"
+[02:04:22] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:04:22] [VoiceChatServerThread/ERROR]: [voicechat] Failed to bind to address '172.30.124.31', binding to wildcard IP instead
+[02:04:22] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.30.124.31:24454
+[02:05:21] [Server thread/INFO]: troll_face300[/172.30.212.217:55112] logged in with entity id 9 at (-466.1188351376962, 67.0, -534.9903069428161)
+[02:05:21] [Server thread/INFO]: troll_face300 joined the game
