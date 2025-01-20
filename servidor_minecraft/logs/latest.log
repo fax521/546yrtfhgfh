@@ -120,3 +120,12 @@
 [17:50:31] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
 [17:52:01] [Server thread/INFO]: troll_face300[/172.30.212.217:57586] logged in with entity id 30112 at (-603.7011932259763, 64.0, -515.544489430942)
 [17:52:01] [Server thread/INFO]: troll_face300 joined the game
+[17:56:26] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[17:56:26] [Server thread/INFO]: troll_face300 left the game
+[17:56:26] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
+[17:57:48] [Server thread/INFO]: troll_face300[/172.30.212.217:57663] logged in with entity id 31653 at (-608.163400838336, 64.0, -513.2972946024038)
+[17:57:48] [Server thread/INFO]: troll_face300 joined the game
+[18:01:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-597, y=66, z=-511} class_2338{x=-601, y=62, z=-515}
+[18:04:47] [Server thread/INFO]: troll_face300 lost connection: Disconnected
+[18:04:47] [Server thread/INFO]: troll_face300 left the game
+[18:04:47] [Server thread/INFO]: [voicechat] Disconnecting client troll_face300
